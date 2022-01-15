@@ -11,8 +11,6 @@
 - I’m currently practicing in **Data Structures** and **Algorithms** and also working towards getting proficient in **web development**
 
 - I’m looking to collaborate on **OpenSource Projects**
-
-- To reach me just drop a message on my socials listed below.
   
 <br/>
 <hr/>
