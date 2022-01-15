@@ -1,8 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="math.jpg"/></a>
+<img width="100%" height="auto" src="math.jpg"/>
 
 ## About Me
 
-- I'm an upcoming Data Scientist, Student and also a Tech Enthusiast
+- Hey guys I am Ashwath Vasudevan
+
+- I am an upcoming Data Scientist, Student and also a Tech Enthusiast
 
 - Sophomore at **National Institute of Technology, Trichy** studying **Computer Science and Engineering**
 
