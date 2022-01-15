@@ -8,9 +8,9 @@
 
 - I have also complete the **Foundation Level** in the **BSc Online Program in Programming and Data Science** from **IIT MAdras**
 
-- I’m currently practicing in **Data Structures** and **Algorithms** and also working towards getting proficient in **web development**
+- I am currently practicing in **Data Structures** and **Algorithms** and also working towards getting proficient in **web development**
 
-- I’m looking to collaborate on **OpenSource Projects**
+- I would also like to collaborate on **OpenSource Projects**
   
 <br/>
 <hr/>
