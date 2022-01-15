@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="math.jpg"/>
+<img width="100%" height="auto" src="/math.jpg"/>
 
 ## About Me
 
@@ -8,7 +8,7 @@
 
 - Sophomore at **National Institute of Technology, Trichy** studying **Computer Science and Engineering**
 
-- I have also complete the **Foundation Level** in the **BSc Online Program in Programming and Data Science** from **IIT MAdras**
+- I have also complete the **Foundation Level** in the **BSc Online Program in Programming and Data Science** from **IIT Madras**
 
 - I am currently practicing in **Data Structures** and **Algorithms** and also working towards getting proficient in **web development**
 
