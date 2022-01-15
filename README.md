@@ -39,7 +39,7 @@
   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ash20012003&theme=radical&count_private=true&show_icons=true)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=ash20012003&show_icons=true&count_private=true&theme=radical)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ash20012003&layout=compact)](https://github.com/ash20012003/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash20012003&exclude_repo=github-readme-stats,ash20012003.github.io)](https://github.com/ash20012003/github-readme-stats)
    
   <b >Note : </b> Stats is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
