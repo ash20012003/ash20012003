@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Hey guys I am Ashwath Vasudevan
+- Hey guys I am Ashwath Vasudevan :wave:
 
 - I am an upcoming Data Scientist, Student and also a Tech Enthusiast
 
@@ -20,11 +20,11 @@
 
 ## Languages, Frameworks and Tools :
 <br/>
-## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <!--  [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)     [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) [![C++ Badge](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=for-the-badge)](#)  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)   -->
@@ -44,8 +44,8 @@
 <p align="center">
    
 
-  ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ash20012003&theme=radical&count_private=true&show_icons=true) <br/>
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=ash20012003&show_icons=true&count_private=true&theme=radical)<br/>
+  ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ash20012003&theme=radical&count_private=true&show_icons=true) <br/> <br/>
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=ash20012003&show_icons=true&count_private=true&theme=radical)<br/> <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash20012003&exclude_repo=github-readme-stats,ash20012003.github.io)](https://github.com/ash20012003/github-readme-stats)
    
