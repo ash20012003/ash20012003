@@ -33,7 +33,7 @@
 
 ## Github Stats
 <br/>
-<p align="left">
+<p align="centre">
    
 
   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ash20012003&theme=radical&count_private=true&show_icons=true)
