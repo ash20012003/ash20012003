@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./math.jpg"/></a>
+<a href="#"><img width="100%" height="auto" src="math.jpg"/></a>
 
 ## About Me
 
