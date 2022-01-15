@@ -1,4 +1,5 @@
-<img width="100%" height="auto" src="/math.jpg"/>
+![math](https://user-images.githubusercontent.com/83507067/149633857-f575acf4-a8bd-4a81-9ada-292b83e11300.jpg)
+<!-- <img width="100%" height="auto" src="/math.jpg"/> -->
 
 ## About Me
 
